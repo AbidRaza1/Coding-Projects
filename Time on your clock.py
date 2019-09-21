@@ -6,13 +6,13 @@
 
 #Time on your clock after
 
-current_time = int(input('Please enter the time on your 24HR clock: '))
+c = int(input('Please enter the time on your 24HR clock: '))
 
-wait_time = int(input('Please enter the wait time to ring the alarm: '))
+w = int(input('Please enter the wait time to ring the alarm: '))
 
-t = (current_time + wait_time) % 24
+t = (c + w) % 24
 
-print('Time on your clock after wait time of:', wait_time, 'would be: ','' ,t)
+print('Time on your clock after wait time of:', w, 'would be: ','' ,t)
 
 
 
