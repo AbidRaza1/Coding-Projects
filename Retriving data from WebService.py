@@ -47,3 +47,6 @@ while True:
 
     location = js['results'][0]['place_id']
     print(location)
+    
+    
+    #The example is heavily inspired from Dr. Charles Severance, Python for Everybody specialization.
