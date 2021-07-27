@@ -1,4 +1,3 @@
-
  
 # Counting number of Iterations
 
@@ -21,4 +20,3 @@ def se(a):
     
 p = se(10)
 print(p)
-
