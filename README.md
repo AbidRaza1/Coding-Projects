@@ -15,7 +15,7 @@
    About me: Sales tax Calculator for Canadian provinces.
 
 5- Filename: Breakfast Menu.py.
-   About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calcualting the cost of the breakfast.
+   About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calculating the cost of the breakfast.
 
 6- Filename: Retrieving Data from Web Service.py.
    About me: Retrieving Data from Web Service using GEOJSON API.
@@ -45,7 +45,7 @@
     About me: The counts number of iterations to make the number divisible by 2
     
 15- Filename: Finding number in text.ipynb
-    About me: The program finds numbers in given text using regluar expressions and calculate the sum.
+    About me: The program finds numbers in given text using regular expressions and calculate the sum.
     
 16- Filename: Day you return.py.
     About me: The programm calculates the day one would return after taking leave.
