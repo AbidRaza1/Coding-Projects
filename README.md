@@ -1,5 +1,7 @@
 ## Coding Projects
 
+### The repository contains coding projects using Python programming language. The scope of these projects is to design short and useful codes which can solve some important problems we encounter in our daily life.
+
 1- Filename: hrs.py.
    About me: Find hours minutes and seconds in given number of seconds. 
 
