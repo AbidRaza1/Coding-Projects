@@ -1,5 +1,4 @@
 
-
 # Calculating the return date.
 
 calender = print('Calendar days:','Sudnay-Saturday:', '0-6')
