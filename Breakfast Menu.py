@@ -1,5 +1,12 @@
+## Breakfast Menu
+
+# Importing datetime
+
 import datetime
 now = datetime.datetime.now()
+
+# Looping for AM and PM
+
 if now.hour < 12:    
     print(' Please Read from our Breakfast menu: \n ')
     print(' PanCakes \n')
