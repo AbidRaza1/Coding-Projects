@@ -1,3 +1,4 @@
+
 # Calculating Number of letter "i" in program.
 
 s = 'civilengineeering'
@@ -5,6 +6,8 @@ s = 'civilengineeering'
 t='i'
 
 x = 0
+
+# Initializaing loop
 
 for i in s:
             if i in t:
