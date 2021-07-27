@@ -1,4 +1,5 @@
-## Breakfast Menu
+## Calculating cost of the Breakfast.
+
 
 # Importing datetime
 
@@ -14,6 +15,8 @@ if now.hour < 12:
     print(' Yougurt \n')
 
     print('Please type your order please \n')
+# Asking user input
+    
     Main = input('Enter the main dish or enter None: \n').upper()
     Side = input('Enter the side dish: \n').upper() 
     pc = 5
