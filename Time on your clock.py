@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
 
 #Time on your clock after wait a particular wait time
 
@@ -13,12 +8,4 @@ w = int(input('Please enter the wait time to ring the alarm: '))
 t = (c + w) % 24
 
 print('Time on your clock after wait time of:', w, 'would be: ','' ,t)
-
-
-
-
-# In[ ]:
-
-
-
 
