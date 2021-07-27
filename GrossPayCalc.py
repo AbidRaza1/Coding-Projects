@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
 
 import sys as s
 
@@ -35,19 +30,6 @@ else:
 print(GrossPay)
 
 
-# In[ ]:
-
-
-
-
-
-# In[2]:
-
-
-45
-
-
-# In[ ]:
 
 
 
