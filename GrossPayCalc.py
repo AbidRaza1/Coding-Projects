@@ -28,9 +28,3 @@ else:
         GrossPay = hourlyrate * hrs
 
 print(GrossPay)
-
-
-
-
-
-
