@@ -31,17 +31,3 @@ print(str(Emp3) + ' '+ 'is going to work in Runner \n')
 print(str(Emp4) +' ' + 'is going to work in DriveThru \n')
 print(str(Emp5) +' ' + 'is going to work in FryerStation \n')
 print(str(Emp6) +' ' +'is going to work in CashHandling')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
