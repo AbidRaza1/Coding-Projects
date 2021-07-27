@@ -2,6 +2,7 @@
  
 # Counting number of Iterations
 
+# defining function
 
 def se(a):
     
