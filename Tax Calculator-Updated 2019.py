@@ -1,4 +1,6 @@
 
+## SALES TAX CALCUALTOR FOR CANADIAN PROVINCES
+
 print('In order to calculate total cost of your order including taxes, please enter the acroynm of the state you live \n ')
 print(' Alberta-AB \n British Columbia-BC \n Manitoba-MB \n NorthWestTerritories-NWT \n Nunavut-NU \n NewFoundLand and Labradour-NL \n NewBrunswick-NB \n NovaScotia-NS \n Ontario-ON \n Prince Edwards Island- PEI \n')
 
