@@ -1,6 +1,6 @@
 ## Coding Projects
 
-### The repository contains coding projects using Python programming language. The scope of these projects is to design short and useful codes which can solve some important problems we encounter in our daily life.
+### The repository contains coding projects using Python programming language. The scope of these projects is to design concise and useful codes to solve some important problems we encounter in our daily life.
 
 Filename: hrs.py.
 
