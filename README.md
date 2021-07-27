@@ -44,7 +44,7 @@
 
 11- Filename: GrossPayCalc.py.
    
-    About me: Calcualting gross pay for regular and overtime hours.
+    About me: Calculating gross pay for regular and overtime hours.
     
 12- Filename: Count No. of Iterations.py.
     
