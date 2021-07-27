@@ -1,5 +1,5 @@
 
-# Calculating Number of letter "i" in program.
+# Calculating number of times word "i" appears in a letter
 
 s = 'civilengineeering'
 
