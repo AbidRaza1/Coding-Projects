@@ -2,67 +2,67 @@
 
 ### The repository contains coding projects using Python programming language. The scope of these projects is to design short and useful codes which can solve some important problems we encounter in our daily life.
 
-1- Filename: hrs.py.
-   
-    About me: Find hours minutes and seconds in given number of seconds. 
+Filename: hrs.py.
 
-2- Filename: finding data in XML.py
-   
-    About me: Finding data in XML documents.
+About me: Find hours minutes and seconds in given number of seconds. 
 
-3- Filename: Time on your clock.py.
+Filename: finding data in XML.py
    
-    About me: Calculating time on clock after a particular wait time.
-   
-4- Filename: Tax Calculator-Updated 2019.py.
-   
-    About me: Sales tax Calculator for Canadian provinces.
+About me: Finding data in XML documents.
 
-5- Filename: Breakfast Menu.py.
+Filename: Time on your clock.py.
    
-    About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calculating the cost of the breakfast.
+About me: Calculating time on clock after a particular wait time.
+   
+Filename: Tax Calculator-Updated 2019.py.
+   
+About me: Sales tax Calculator for Canadian provinces.
 
-6- Filename: Retrieving Data from Web Service.py.
+Filename: Breakfast Menu.py.
    
-    About me: Retrieving Data from Web Service using GEOJSON API.
+About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calculating the cost of the breakfast.
 
-7- Filename: Employee Schedule using strpfunc.py.
+Filename: Retrieving Data from Web Service.py.
    
-    About me: Designing employee schedule and their deployment in each department.
+About me: Retrieving Data from Web Service using GEOJSON API.
 
-8- Filename: Grocery Counter.py.
+Filename: Employee Schedule using strpfunc.py.
    
-    About me: Designing grocery counter and calculating their prices for a Departmental store.
-   
-9- Filename: Sum of first Six natural numbers using FOR loop.py.
-   
-    About me: Sum of six natural numbers.
+About me: Designing employee schedule and their deployment in each department.
 
-10- Filename: Basics.py.
+Filename: Grocery Counter.py.
    
-    About me: Counting letters in a word.
-
-11- Filename: GrossPayCalc.py.
+About me: Designing grocery counter and calculating their prices for a Departmental store.
    
-    About me: Calculating gross pay for regular and overtime hours.
-    
-12- Filename: Count No. of Iterations.py.
-    
-    About me: Counting number of iterations.
-    
-13- Filename: Sqr-root-Approx.py.
-    
-    About me: Calculating square root approximations.
+Filename: Sum of first Six natural numbers using FOR loop.py.
+   
+About me: Sum of six natural numbers.
 
-14- Filename: Count No. of Iterations.py.
+Filename: Basics.py.
+   
+About me: Counting letters in a word.
+
+Filename: GrossPayCalc.py.
+   
+About me: Calculating gross pay for regular and overtime hours.
     
-    About me: The counts number of iterations to make the number divisible by 2
+Filename: Count No. of Iterations.py.
     
-15- Filename: Finding number in text.ipynb
+About me: Counting number of iterations.
     
-    About me: The program finds numbers in given text using regular expressions and calculate the sum.
+Filename: Sqr-root-Approx.py.
     
-16- Filename: Day you return.py.
+About me: Calculating square root approximations.
+
+Filename: Count No. of Iterations.py.
     
-    About me: The programm calculates the day one would return after taking leave.
+About me: The counts number of iterations to make the number divisible by 2
+    
+Filename: Finding number in text.ipynb
+    
+About me: The program finds numbers in given text using regular expressions and calculate the sum.
+    
+Filename: Day you return.py.
+
+About me: The programm calculates the day one would return after taking leave.
    
