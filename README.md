@@ -66,3 +66,7 @@ Filename: Day you return.py.
 
 About me: The programm calculates the day one would return after taking leave.
    
+
+
+
+Reference: The program/problems are heavily inspired by works of Professor Dr. Charles Severance " Python for every body" and Allen B.Downey " How to think like a computer scientist"
