@@ -1,7 +1,5 @@
 
-
 # GROCERY COUNTER
-
 
 # Initializing loop
 
@@ -22,6 +20,3 @@ while more:
 
 print('Total Price',nitems)
 print('Total Items',ncount)
-
-
-
