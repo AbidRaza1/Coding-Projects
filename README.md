@@ -4,39 +4,39 @@
 
 1- Filename: hrs.py.
    
-   About me: Find hours minutes and seconds in given number of seconds. 
+    About me: Find hours minutes and seconds in given number of seconds. 
 
 2- Filename: finding data in XML.py
    
-   About me: Finding data in XML documents.
+    About me: Finding data in XML documents.
 
 3- Filename: Time on your clock.py.
    
-   About me: Calculating time on clock after a particular wait time.
+    About me: Calculating time on clock after a particular wait time.
    
 4- Filename: Tax Calculator-Updated 2019.py.
    
-   About me: Sales tax Calculator for Canadian provinces.
+    About me: Sales tax Calculator for Canadian provinces.
 
 5- Filename: Breakfast Menu.py.
    
-   About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calculating the cost of the breakfast.
+    About me: The program displays a breakfast menu for restuarant. Ask user their choices and result in calculating the cost of the breakfast.
 
 6- Filename: Retrieving Data from Web Service.py.
    
-   About me: Retrieving Data from Web Service using GEOJSON API.
+    About me: Retrieving Data from Web Service using GEOJSON API.
 
 7- Filename: Employee Schedule using strpfunc.py.
    
-   About me: Designing employee schedule and their deployment in each department.
+    About me: Designing employee schedule and their deployment in each department.
 
 8- Filename: Grocery Counter.py.
    
-   About me: Designing grocery counter and calculating their prices for a Departmental store.
+    About me: Designing grocery counter and calculating their prices for a Departmental store.
    
 9- Filename: Sum of first Six natural numbers using FOR loop.py.
    
-   About me: Sum of six natural numbers.
+    About me: Sum of six natural numbers.
 
 10- Filename: Basics.py.
    
