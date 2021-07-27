@@ -1,14 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# 
-# 
+ 
 # Counting number of Iterations
-# 
-# 
-# 
-
-# In[ ]:
 
 
 def se(a):
