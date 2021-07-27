@@ -13,4 +13,3 @@ for i in s:
             if i in t:
                         x = x + 1
 print('Number of i:', x)      
-
