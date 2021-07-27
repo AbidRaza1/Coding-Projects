@@ -1,6 +1,5 @@
 ## Calculating cost of the Breakfast.
 
-
 # Importing datetime
 
 import datetime
@@ -33,4 +32,3 @@ if now.hour < 12:
         print('Have a  wonderful day' + '\n')
 else:
     print('thanks')
-
